@@ -1,8 +1,7 @@
 ```cpp
 class Solution {
 public:
-
-vector<int> postorderTraversal(TreeNode* root) {
+    vector<int> postorderTraversal(TreeNode* root) {
         vector<int> path;
         vector<TreeNode *> stack;
         // add the node whose left child tree and right child tree were added
