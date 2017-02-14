@@ -1,3 +1,3 @@
 # LeetCode
 
-* [Tree](chapter1.md)
+* [Tree](./Tree/SUMMARY.md)
