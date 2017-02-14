@@ -6,6 +6,6 @@
         - [先序遍历](./Tree/Traversal/preorderTraversal.md)
         - [中序遍历](./Tree/Traversal/inorderTraversal.md)
         - [后序遍历](./Tree/Traversal/postorderTraversal.md)
-        - [层次遍历](./Tree/Traversal/levelOreder.md)
+        - [层次遍历](./Tree/Traversal/levelOrder.md)
 
 
