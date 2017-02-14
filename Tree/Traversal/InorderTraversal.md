@@ -37,4 +37,5 @@ vector<int> inorderTraversal(TreeNode* root) {
 
         return path;
     }
+}
 ```
