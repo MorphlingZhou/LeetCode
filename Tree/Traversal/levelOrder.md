@@ -33,9 +33,9 @@ public:
         }
         
         answer.pop_back();
-        
-        return answer;
     }
-  }    
+    
+    return answer;
+  }   
 };
 ```
