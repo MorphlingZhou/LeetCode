@@ -1,4 +1,7 @@
 ```cpp
+class Solution {
+public:
+
 vector<int> inorderTraversal(TreeNode* root) {
         vector<int> path;
         vector<TreeNode *> stack;
