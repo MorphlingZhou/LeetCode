@@ -1,5 +1,6 @@
 ```cpp
-class Solution {
+class Solution 
+{
 public:
     vector<int> preorderTraversal(TreeNode* root) {
         vector<TreeNode *> stack;
