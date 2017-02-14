@@ -1,3 +1,3 @@
 # LeetCode
 
-* [First Chapter](chapter1.md)
+* [Tree](chapter1.md)
